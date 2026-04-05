@@ -16,7 +16,12 @@ Más allá de un simple diseño, este proyecto se centró en la **integridad ref
 - **Lenguaje:** SQL (DDL/DML)
 
 ## 📊 Modelo Entidad-Relación (DER)
-*(Aquí arrastra y suelta la imagen de tu diagrama de tablas)*
+
+
+
+<img width="1053" height="449" alt="Captura de pantalla 2026-03-02 170539" src="https://github.com/user-attachments/assets/915ad457-3776-48b5-b062-c5ac899efe64" />
+
+
 
 ## 📈 Impacto Técnico
 - 100% de integridad referencial en el flujo de fondos.
